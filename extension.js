@@ -3,7 +3,7 @@ const vscode = require('vscode')
 /**
  * @param {vscode.ExtensionContext} context
  */
-function activate(context) {
+function activate() {
   // Command to show activation
   console.log('Activated')
 
